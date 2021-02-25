@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* { box-sizing: border-box;
+}
+
+h1 {
+    font-family:'Pacifico', cursive;
+    text-transform: capitalize;
+}
+#logo{
+    /* float: left; */
+    /* display: inline; */
+}
+#headtext {
+    font-size: xx-small;
+    color: lightgray;
+    text-transform: capitalize;
+}
+
+.rightSide{
+    /* float: left; */
+    display: inline-block;  
+}
+
+.leftSide{
+    float: right;
+}
